@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "suppressExcessPropertyErrors": true
+  },
+	"include": [
+		"./**/*"
+	],
+	"exclude": [
+		"./node_modules",
+    "public/*"
+	],
+  "sourceMap": true
+}

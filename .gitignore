@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+*.swp
+components/*.js
+vats/**/*.js
+*.map
+config.js
+config.mk
+index.d.ts
+public/build
+wily.js/tests/build/*
